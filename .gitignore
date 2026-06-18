@@ -1,0 +1,42 @@
+# Virtual Environment
+venv/
+
+# Environment Variables (API Keys - NEVER push this!)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints
+research/
+
+# Package build files
+*.egg-info/
+medical_chatbot.egg-info/
+dist/
+build/
+dependency_links.txt
+PKG-INFO
+SOURCES.txt
+top_level.txt
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Model cache (HuggingFace downloads)
+.cache/
+
+# Pinecone / ML artifacts
+*.pkl
+*.faiss
