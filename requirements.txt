@@ -1,7 +1,7 @@
 flask
 langchain
 langchain-community
-langchain-google-genai
+langchain-groq
 pinecone-client
 sentence-transformers
 pypdf
