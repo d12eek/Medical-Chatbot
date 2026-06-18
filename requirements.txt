@@ -1,6 +1,7 @@
 flask
 langchain
 langchain-community
+langchain-pinecone
 langchain-groq
 pinecone-client
 sentence-transformers
